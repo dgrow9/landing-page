@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto';
+}
+
+.first {    
+   background-color:  
+}
+
+.second {
+
+}
+
+.third {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    font-style: light italic;
+}
+
+.fourth {
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.first, .footer {
+    background-color: #1f2937;
+    color: #f9faf8
+}
