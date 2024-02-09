@@ -15,47 +15,9 @@ body {
     align-items: center;
 }
 
-.header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.header-links {
-    display: flex;
-    flex-direction: row;
-}
-
-.header-logo {
-    display: flex;
-    flex-direction: row;
-}
-
-.first h1 {
-    font-size: 48px;
-    font-style: extra-bold;
-    color: #f9faf8;
-}
-
 /* Second Section */
 .second {
     text-align: center;    
-}
-
-.second-content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.cards {
-    border: 2px solid #3882f6;
-    border-radius: 5px;
-    width: 70px;
-    height: 70px;
-    padding: 16px;
-    margin: 16px;
 }
 
 /* Third Section */
@@ -72,20 +34,12 @@ body {
     justify-content: center;
 }
 
-.call-to-action {
-    background-color: #3882f6;
-    border-radius: 5px;
-    color: #f9faf8;
-    width: 800px;
-    height: 100px;
-}
-
 .fourth button {
-    background-color: #3882f6;
-    border: 2px solid #f9faf8;
-    border-radius: 5px;
-    color: #f9faf8;
-    padding: 3px 15px;
+   background-color: #3882f6;
+   border: 2px solid #f9faf8;
+   color: #f9faf8;
+   border-radius: 5px;
+   padding: 3px 15px; 
 }
 
 /* Footer */
@@ -95,7 +49,13 @@ body {
     align-items: center;
 }
 
+/* Combined */
 .first, .footer {
     background-color: #1f2937;
     color: #f9faf8
+}
+
+.second, .fourth {
+    background-color: #f9faf8;
+    color: #1f2937;
 }
