@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 body {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
+/* First section */
 .first {
     display: flex;
     flex-direction: column;
@@ -11,13 +16,23 @@ body {
 }
 
 .header {
+    display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .header-links {
+    display: flex;
     flex-direction: row;
 }
 
+.first h1 {
+    font-size: 48px;
+    font-style: extra-bold;
+    color: #f9faf8;
+}
+
+/* Second Section */
 .second {
     text-align: center;    
 }
@@ -37,6 +52,7 @@ body {
     margin: 16px;
 }
 
+/* Third Section */
 .third {
     background-color: #e5e7eb;
     color: #1f2937;
@@ -44,6 +60,7 @@ body {
     font-style: light italic;
 }
 
+/* Fourth Section */
 .fourth {
     display: flex;
     justify-content: center;
@@ -65,6 +82,7 @@ body {
     padding: 3px 15px;
 }
 
+/* Footer */
 .footer {
     display: flex;
     justify-content: center;
@@ -74,10 +92,4 @@ body {
 .first, .footer {
     background-color: #1f2937;
     color: #f9faf8
-}
-
-.first h1 {
-    font-size: 48px;
-    font-style: extra-bold;
-    color: #f9faf8;
 }
