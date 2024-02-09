@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto';
     margin: 0;
+    min-height: 100vh;
 }
 
 .first {
@@ -44,14 +45,30 @@ body {
 }
 
 .fourth {
+    display: flex;
+    justify-content: center;
+}
+
+.call-to-action {
     background-color: #3882f6;
+    border-radius: 5px;
     color: #f9faf8;
+    width: 800px;
+    height: 100px;
+}
+
+.fourth button {
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 5px;
+    color: #f9faf8;
+    padding: 3px 15px;
 }
 
 .footer {
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
 }
 
 .first, .footer {
