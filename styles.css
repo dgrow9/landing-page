@@ -17,8 +17,23 @@ body {
 
 /* Second Section */
 .second {
-    text-align: center;    
+    text-align: center;
 }
+
+.second img {
+    border: 2px solid #3882f6;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.second-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 
 /* Third Section */
 .third {
