@@ -41,6 +41,12 @@ body {
     font-size: 24px;
 }
 
+.third-content {
+    width: 790px;
+    padding: 55px;
+    margin: 0 auto;
+}
+
 /* Fourth Section */
 .fourth {
     display: flex;
