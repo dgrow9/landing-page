@@ -28,6 +28,19 @@ body {
     font-style: light italic;
 }
 
+.third h3 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+    text-align: left;
+}
+
+.third h4 {
+    text-align: right;
+    font-size: 24px;
+}
+
 /* Fourth Section */
 .fourth {
     display: flex;
