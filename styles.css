@@ -61,6 +61,19 @@ body {
    padding: 3px 15px; 
 }
 
+.call-to-action {
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 220px;
+    margin: 30px;
+    border-radius: 5px;
+}
+
+
 /* Footer */
 .footer {
     display: flex;
