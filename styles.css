@@ -30,12 +30,15 @@ body {
     gap: 25px;
 }
 
+.first a {
+    color: #f9faf8;
+}
+
 .first-content {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 950px;
-   
+    max-width: 950px;
 }
 
 .first-left button {
@@ -50,10 +53,6 @@ body {
     background-color: grey;
     width: 400px;
     height: 200px;
-}
-
-.first a {
-    color: #f9faf8;
 }
 
 
@@ -101,9 +100,10 @@ body {
 }
 
 .third-content {
-    width: 790px;
+    max-width: 790px;
     padding: 55px;
     margin: 0 auto;
+    flex-wrap: wrap;
 }
 
 
@@ -133,6 +133,7 @@ body {
     width: 950px;
     margin: 30px;
     border-radius: 5px;
+    flex-wrap: wrap;
 }
 
 
