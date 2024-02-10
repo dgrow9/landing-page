@@ -20,6 +20,8 @@ body {
 .first-header {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    width: 950px;
 }
 
 .first-links {
@@ -31,7 +33,9 @@ body {
 .first-content {
     display: flex;
     flex-direction: row;
-    gap: 75px;
+    justify-content: space-between;
+    width: 950px;
+   
 }
 
 .first-left button {
@@ -65,8 +69,8 @@ body {
 
 .second-img {
     display: flex;
-    flex-direction: row;
     justify-content: center;
+    /*width: 950px;*/
 }
 
 
