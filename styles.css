@@ -13,6 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    flex: 1;
 }
 
 .first-header {
@@ -49,6 +50,7 @@ body {
 /* Second Section */
 .second {
     text-align: center;
+    flex: 1;
 }
 
 .second img {
@@ -72,6 +74,7 @@ body {
     color: #1f2937;
     font-size: 36px;
     font-style: light italic;
+    flex: 1;
 }
 
 .third h3 {
@@ -97,6 +100,7 @@ body {
 .fourth {
     display: flex;
     justify-content: center;
+    flex: 1;
 }
 
 .fourth button {
@@ -124,6 +128,7 @@ body {
 .footer {
     display: flex;
     justify-content: center;
+    flex: 1;
 }
 
 /* Combined */
