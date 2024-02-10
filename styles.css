@@ -52,6 +52,10 @@ body {
     height: 200px;
 }
 
+.first a {
+    color: #f9faf8;
+}
+
 
 /* Second Section */
 .second {
@@ -70,7 +74,7 @@ body {
 .second-img {
     display: flex;
     justify-content: center;
-    /*width: 950px;*/
+    flex-wrap: wrap;
 }
 
 
