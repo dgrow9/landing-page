@@ -8,6 +8,7 @@ body {
     flex-direction: column;
 }
 
+
 /* First section */
 .first {
     display: flex;
@@ -46,6 +47,7 @@ body {
     width: 400px;
     height: 200px;
 }
+
 
 /* Second Section */
 .second {
@@ -96,6 +98,7 @@ body {
     margin: 0 auto;
 }
 
+
 /* Fourth Section */
 .fourth {
     display: flex;
@@ -116,9 +119,10 @@ body {
     color: #f9faf8;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 10px 220px;
+    padding: 5px 0;
+    width: 950px;
     margin: 30px;
     border-radius: 5px;
 }
