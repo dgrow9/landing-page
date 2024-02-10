@@ -41,9 +41,9 @@ body {
 .first-content {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 100%;
-    max-width: 100vw;
+    max-width: 1250px;
     flex-wrap: wrap;
 }
 
@@ -142,7 +142,8 @@ body {
     justify-content: space-around;
     align-items: center;
     padding: 5px 0;
-    width: 950px;
+    width: 100%;
+    max-width: 1250px;
     margin: 30px;
     border-radius: 5px;
     flex-wrap: wrap;
