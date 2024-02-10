@@ -21,7 +21,9 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 950px;
+    width: 100%;
+    max-width: 950px;
+    flex-wrap: wrap;
 }
 
 .first-links {
