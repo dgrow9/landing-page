@@ -15,6 +15,26 @@ body {
     align-items: center;
 }
 
+.first-content {
+    display: flex;
+    flex-direction: row;
+    gap: 75px;
+}
+
+.first-left button {
+    background-color: #3882f6;
+    border: none;
+    color: #f9faf8;
+    border-radius: 5px;
+    padding: 5px 20px; 
+}
+
+.first-right img {
+    background-color: grey;
+    width: 400px;
+    height: 200px;
+}
+
 /* Second Section */
 .second {
     text-align: center;
