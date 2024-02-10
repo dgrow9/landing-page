@@ -15,8 +15,6 @@ body {
     flex-direction: column;
     align-items: center;
     flex: 1;
-    padding-top: 10px;
-    padding-bottom: 50px;
 }
 
 .first-header {
@@ -24,7 +22,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
-    max-width: 90vw;
+    max-width: 95vw;
     flex-wrap: wrap;
 }
 
@@ -43,8 +41,10 @@ body {
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
-    max-width: 1250px;
+    max-width: 1450px;
     flex-wrap: wrap;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .first-left button {
@@ -84,8 +84,7 @@ body {
 .second {
     text-align: center;
     flex: 1;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 80px;
 }
 
 .second img {
@@ -116,8 +115,7 @@ body {
     font-size: 36px;
     font-style: light italic;
     flex: 1;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    
 }
 
 .third h3 {
@@ -135,9 +133,11 @@ body {
 
 .third-content {
     max-width: 790px;
-    padding: 55px;
+    /*padding: 55px;*/
     margin: 0 auto;
     flex-wrap: wrap;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 
@@ -167,7 +167,7 @@ body {
     align-items: center;
     padding: 5px 0;
     width: 100%;
-    max-width: 1250px;
+    max-width: 1350px;
     margin: 30px;
     border-radius: 5px;
     flex-wrap: wrap;
