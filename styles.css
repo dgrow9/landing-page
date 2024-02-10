@@ -57,8 +57,9 @@ body {
 
 .first-right img {
     background-color: grey;
+    max-width: 100%;
     width: 400px;
-    height: 200px;
+    height: auto;
 }
 
 
