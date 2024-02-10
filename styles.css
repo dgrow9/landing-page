@@ -62,6 +62,23 @@ body {
     height: auto;
 }
 
+.first-left h1 {
+    font-size: 48px;
+    font-style: bold;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.first-links, p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.first h3 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
 
 /* Second Section */
 .second {
@@ -83,6 +100,12 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+.second h3 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
 }
 
 
