@@ -39,7 +39,7 @@ body {
 .first-content {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: flex-start;
     width: 100%;
     max-width: 1450px;
@@ -69,6 +69,7 @@ body {
     font-weight: 900;
     color: #f9faf8;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .first-links, p {
