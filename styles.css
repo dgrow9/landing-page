@@ -169,12 +169,21 @@ body {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    padding: 5px 0;
+    padding: 15px 0;
     width: 100%;
     max-width: 1350px;
     margin: 30px;
     border-radius: 5px;
     flex-wrap: wrap;
+}
+
+.call-to-action p {
+    font-size: 15px;
+    margin-top: 3px;;
+}
+
+.call-to-action h4 {
+    margin-bottom: 0;
 }
 
 
