@@ -128,11 +128,13 @@ body {
     font-weight: 300;
     color: #1f2937;
     text-align: left;
+    margin-bottom: 0;
 }
 
 .third h4 {
     text-align: right;
     font-size: 24px;
+    margin-top: 10px;
 }
 
 .third-content {
