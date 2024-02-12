@@ -101,6 +101,7 @@ body {
 .second-img {
     display: flex;
     justify-content: center;
+    /*flex-shrink: 1;*/
     flex-wrap: wrap;
 }
 
