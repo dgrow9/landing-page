@@ -8,3 +8,7 @@ I will be trying to recreate the provided website as closely as possible using s
 Image credit here:
 
 catheader.jpg : Inge Wallumrød on pexels
+cat1.jpg : Zetong Li on pexels
+cat2.jpg : Tranmautritam on pexels
+cat3.jpg : Anna Shvets on pexels
+cat4.jpg : Pixabay on pexels

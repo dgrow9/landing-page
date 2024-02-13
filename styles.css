@@ -62,6 +62,7 @@ body {
     max-width: 100%;
     width: 400px;
     height: auto;
+    border-radius: 10px;
 }
 
 .first-left h1 {
