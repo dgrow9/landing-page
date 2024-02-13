@@ -89,6 +89,7 @@ body {
     font-style: normal;
     font-weight: 500;
     margin-bottom: 20px;
+    box-shadow: 4px 4px #383D3E;
 }
 
 .first p {
@@ -116,6 +117,7 @@ body {
     text-align: center;
     flex: 1;
     padding-bottom: 80px;
+    padding-top: 80px;
 }
 
 .second h3 {
@@ -123,6 +125,7 @@ body {
     font-style: normal;
     font-weight: 800;
     color: #8762BF;
+    margin-top: 0;
 }
 
 .second-img {
@@ -174,6 +177,7 @@ body {
     color: #383D3E;
     text-align: left;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 .third h4 {
@@ -182,6 +186,7 @@ body {
     margin-top: 10px;
     font-style: normal;
     font-weight: 600;
+    margin-bottom: 0;
 }
 
 
@@ -191,8 +196,8 @@ body {
     display: flex;
     justify-content: center;
     flex: 1;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .call-to-action {
@@ -205,7 +210,7 @@ body {
     padding: 15px 0;
     width: 100%;
     max-width: 1350px;
-    margin: 30px;
+    /*margin: 30px;*/
     border-radius: 5px;
     flex-wrap: wrap;
 }
@@ -232,6 +237,7 @@ body {
    padding: 3px 15px; 
    font-style: normal;
    font-weight: 500;
+   box-shadow: 2px 2px #383D3E;
 }
 
 
