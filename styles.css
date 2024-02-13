@@ -85,7 +85,7 @@ body {
     border: none;
     color: #383D3E;
     border-radius: 5px;
-    padding: 5px 20px; 
+    padding: 3px 15px; 
     font-style: normal;
     font-weight: 500;
     margin-bottom: 20px;
@@ -257,4 +257,9 @@ body {
 .second, .fourth {
     background-color: #ffffff;
     color: #8762BF;
+}
+
+button {
+    width: 90px;
+    height: 30px;
 }
