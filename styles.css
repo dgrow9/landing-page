@@ -72,7 +72,7 @@ body {
 }
 
 .first-left h1 {
-    font-size: 48px;
+    font-size: 55px;
     font-style: normal;
     font-weight: 800;
     color: #FFFFFF;
@@ -94,6 +94,7 @@ body {
 .first p {
     font-style: normal;
     font-weight: 100;
+    font-size: 17px;
 }
 
 .first-links p {
@@ -143,6 +144,7 @@ body {
     font-style: normal;
     font-weight: 100;
     width: 250px;
+    font-size: 15px;
 }
 
 
@@ -166,7 +168,7 @@ body {
 }
 
 .third h3 {
-    font-size: 36px;
+    font-size: 30px;
     font-style: italic;
     font-weight: 100;
     color: #383D3E;
@@ -212,10 +214,11 @@ body {
     margin-bottom: 0;
     font-style: normal;
     font-weight: 800;
+    font-size: 16px;
 }
 
 .call-to-action p {
-    font-size: 15px;
+    font-size: 16px;
     margin-top: 3px;
     font-style: normal;
     font-weight: 100;
@@ -240,6 +243,7 @@ body {
     flex: 1;
     font-style: normal;
     font-weight: 500;
+    font-size: 15px;
 }
 
 
