@@ -30,13 +30,6 @@ body {
     flex-wrap: wrap;
 }
 
-/*
-.first h3 {
-    font-size: 24px;
-    color: #FFFFFF;
-}
-*/
-
 .first-header img {
     width: 100px;
     height: 100px;
@@ -82,14 +75,14 @@ body {
 
 .first-left button {
     background-color: #62BFAC;
-    border: none;
+    border: 2px solid #383D3E;
     color: #383D3E;
     border-radius: 5px;
     padding: 3px 15px; 
     font-style: normal;
     font-weight: 500;
     margin-bottom: 20px;
-    box-shadow: 4px 4px #383D3E;
+    box-shadow: 2px 2px #383D3E;
 }
 
 .first p {
