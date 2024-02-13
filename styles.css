@@ -67,6 +67,10 @@ body {
     padding-bottom: 80px;
 }
 
+.first-left {
+    max-width: 600px;
+}
+
 .first-left h1 {
     font-size: 48px;
     font-style: normal;
