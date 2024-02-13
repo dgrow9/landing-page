@@ -34,7 +34,7 @@ body {
 }
 
 .first a {
-    color: #f9faf8;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
@@ -51,9 +51,9 @@ body {
 }
 
 .first-left button {
-    background-color: #3882f6;
+    background-color: #62BFAC;
     border: none;
-    color: #f9faf8;
+    color: #383D3E;
     border-radius: 5px;
     padding: 5px 20px; 
 }
@@ -69,19 +69,19 @@ body {
     font-size: 48px;
     font-style: bold;
     font-weight: 900;
-    color: #f9faf8;
+    color: #FFFFFF;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
-.first-links, p {
+.first-links p {
     font-size: 18px;
-    color: #e5e7eb;
+    color: #FFFFFF;
 }
 
 .first h3 {
     font-size: 24px;
-    color: #f9faf8;
+    color: #FFFFFF;
 }
 
 
@@ -93,7 +93,7 @@ body {
 }
 
 .second img {
-    border: 2px solid #3882f6;
+    border: 2px solid #62BFAC;
     border-radius: 10px;
     width: 100px;
     height: 100px;
@@ -110,14 +110,14 @@ body {
 .second h3 {
     font-size: 36px;
     font-weight: 900;
-    color: #1f2937;
+    color: #8762BF;
 }
 
 
 /* Third Section */
 .third {
     background-color: #e5e7eb;
-    color: #1f2937;
+    color: #383D3E;
     font-size: 36px;
     font-style: light italic;
     flex: 1;
@@ -128,7 +128,7 @@ body {
     font-size: 36px;
     font-style: italic;
     font-weight: 300;
-    color: #1f2937;
+    color: #383D3E;
     text-align: left;
     margin-bottom: 0;
 }
@@ -159,16 +159,16 @@ body {
 }
 
 .fourth button {
-   background-color: #3882f6;
-   border: 2px solid #f9faf8;
-   color: #f9faf8;
+   background-color: #62BFAC;
+   border: 2px solid #383D3E;
+   color: #383D3E;
    border-radius: 5px;
    padding: 3px 15px; 
 }
 
 .call-to-action {
-    background-color: #3882f6;
-    color: #f9faf8;
+    background-color: #62BFAC;
+    color: #383D3E;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -200,11 +200,11 @@ body {
 
 /* Combined */
 .first, .footer {
-    background-color: #1f2937;
-    color: #f9faf8
+    background-color: #8762BF;
+    color: #FFFFFF
 }
 
 .second, .fourth {
-    background-color: #f9faf8;
-    color: #1f2937;
+    background-color: #ffffff;
+    color: #8762BF;
 }
