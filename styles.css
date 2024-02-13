@@ -84,9 +84,16 @@ body {
     color: #FFFFFF;
 }
 
+/*
 .first h3 {
     font-size: 24px;
     color: #FFFFFF;
+}
+*/
+
+.first-header img {
+    width: 100px;
+    height: 100px;
 }
 
 .first p {

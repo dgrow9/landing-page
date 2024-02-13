@@ -12,3 +12,4 @@ cat1.jpg : Zetong Li on pexels
 cat2.jpg : Tranmautritam on pexels
 cat3.jpg : Anna Shvets on pexels
 cat4.jpg : Pixabay on pexels
+catlogo.png : Jörg on pixabay
